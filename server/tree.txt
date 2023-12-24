@@ -1,0 +1,21 @@
+server/
+    .env
+    package-lock.json
+    package.json
+    server.js
+    tree.py
+    tree.txt
+    src/
+        config/
+            index.js
+        controllers/
+            auth.js
+        middleware/
+            validationResult.js
+            verify.js
+        models/
+            Blacklist.js
+            User.js
+        routes/
+            auth.js
+            index.js
