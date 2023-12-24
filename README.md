@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿# 💪 Control Alt Elite
+=======
+# 💪 Control Alt Elite
+>>>>>>> 40551d83a4302cb2a8b4481e5a077456311e30c7
 
 ### 🔐 Secure Authentication Practices
 
