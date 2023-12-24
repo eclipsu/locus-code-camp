@@ -40,7 +40,7 @@
 
 | **Frontend** | **Backend**          | **Database** | **Tools**    |
 | ------------ | -------------------- | ------------ | ------------ |
-| React.js     | Node.js              | Mysql        | Git / Github |
+| React.js     | Node.js              | MongoDB      | Git / Github |
 | Tailwind CSS | Express.js           |              | Postman      |
 |              | Sequelize            |              | Vercel       |
 |              | Passport.js          |              | Back4app     |
